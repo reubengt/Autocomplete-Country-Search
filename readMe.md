@@ -1,4 +1,4 @@
-# Autocomplete App
+# Autocomplete App - Week 4 Project - Founders and Coders summer 2019 cohort
 ![Imgur](https://i.imgur.com/2c6zKI2.png)
 ## Project Description
 A simple autocomplete widget that accepts a search input and shows an auto-updating list of completed inputs.
